@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BACKEND_URL = "http://127.0.0.1:8000/chat"
+BACKEND_URL = "https://conversational-ai-drive-search-agent.onrender.com"
 
 st.set_page_config(
     page_title="TailorTalk Drive Assistant",
